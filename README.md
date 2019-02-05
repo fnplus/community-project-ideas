@@ -46,6 +46,15 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 - ADD
 
+## Android:
+
+- [Android WiFi Quiz Application](https://nevonprojects.com/mobile-quiz-through-wifi-project/)
+
+- [Download Manager](https://codinginfinite.com/android-download-manager-example/)
+
+- [Android Bluetooth Chat](https://nevonprojects.com/android-bluetooth-chat/)
+
+- [Notes Application with Text, Voice and Text Recognition]()
 
 
 ## C/C++:
