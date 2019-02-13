@@ -594,6 +594,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ### Deep Learning:
 
+- [Using Deep cognition SDK to develop app for AI marketplace * Sponsored by Deep Congiton exclusively for Fnplus community members *](https://github.com/DeepCognition/ai-apps-sdk)
+
 - [Using Convolutional Neural Nets to Detect Facial Keypoints](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
 
 - [Generate an Average Face using Python and OpenCV](https://www.learnopencv.com/average-face-opencv-c-python-tutorial/)
