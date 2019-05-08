@@ -442,6 +442,14 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 
 ## Python:
+### Programming Language
+- [A Python Interpreter Written in Python_](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
+- [Python: _lisp.py: Make your own Lisp interpreter_](http://khamidou.com/compilers/lisp.py/)
+- [Simple Iterator-based Parsing_](http://effbot.org/zone/simple-iterator-parser.htm)
+- [Simple Top-Down Parsing in Python_](http://effbot.org/zone/simple-top-down-parsing.htm)
+- [How to Write a Lisp Interpreter in Python_](http://norvig.com/lispy.html)
+- [Let’s Build A Simple Interpreter_](https://ruslanspivak.com/lsbasi-part1/)
+- [Make Your Own Simple Interpreted Programming Language_](https://www.youtube.com/watch?v=dj9CBS3ikGA&list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD&index=1) [video]
 
 ### Web Scraping:
 
