@@ -1,6 +1,7 @@
 # community-project-ideas
 
 To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-project-ideas.svg)](http://hits.dwyl.io/fnplus/community-project-ideas) people starting from 17th May 2019.
 
 ## Contributors
 
