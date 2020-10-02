@@ -242,7 +242,7 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 
 - [Build a Spring Boot App with User Authentication](https://scotch.io/tutorials/build-a-spring-boot-app-with-user-authentication)
 
-
+- [Build a Library Management System in Java Swing](https://www.javatpoint.com/library-management-system-in-java-swing)
 
 ## JavaScript:
 
