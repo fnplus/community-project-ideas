@@ -462,6 +462,9 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 
 - [Which Movie Should I Watch using BeautifulSoup](https://medium.com/@nishantsahoo.in/which-movie-should-i-watch-5c83a3c0f5b1)
 
+### GUI:
+- [Create a Registration Form Web Application with PyWebIO](https://www.geeksforgeeks.org/create-a-registration-form-using-pywebio-module-in-python/)
+
 ### Web Applications:
 
 - [Build a Microblog with Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
