@@ -43,7 +43,9 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 
 ## Algorithms:
 
-- ADD
+- [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+
+- [A collection of algorithms and data structures ](https://github.com/williamfiset/Algorithms)
 
 
 
