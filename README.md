@@ -17,8 +17,6 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 
 - [C/C++](#cc)
 
-- [Flutter](#flutter)
-
 - [Go](#go)
 
 - [HTML/CSS](#html-and-css)
