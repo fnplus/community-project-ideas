@@ -1,5 +1,6 @@
 # community-project-ideas
 
+--hello
 To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-project-ideas.svg)](http://hits.dwyl.io/fnplus/community-project-ideas) people starting from 17th May 2019.
 
@@ -39,15 +40,11 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 
 - [Swift](#swift)
 
-
-
 ## Algorithms:
 
 - [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 
 - [A collection of algorithms and data structures ](https://github.com/williamfiset/Algorithms)
-
-
 
 ## AR/VR:
 
@@ -62,7 +59,6 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 - [Android Bluetooth Chat](https://nevonprojects.com/android-bluetooth-chat/)
 
 - [Notes Application with Text, Voice and Text Recognition]()
-
 
 ## C/C++:
 
@@ -254,8 +250,6 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 
 - [Build a Jupyter Notebook Extension](https://link.medium.com/wWUO7TN8SS)
 
-
-
 ## HTML and CSS:
 
 - [Build A Loading Screen](https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f)
@@ -436,23 +430,21 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 
 - [Build A Realtime Serverless GraphQL API with WebSockets on AWS](https://andrewgriffithsonline.com/blog/serverless-websockets-on-aws/)
 
-
-
 ## Kotlin:
 
 - [Keddit - Learn Kotlin While Developing an Android Application](https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
 
-
-
 ## Python:
+
 ### Programming Language
-- [A Python Interpreter Written in Python_](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
+
+- [A Python Interpreter Written in Python\_](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 - [Python: _lisp.py: Make your own Lisp interpreter_](http://khamidou.com/compilers/lisp.py/)
-- [Simple Iterator-based Parsing_](http://effbot.org/zone/simple-iterator-parser.htm)
-- [Simple Top-Down Parsing in Python_](http://effbot.org/zone/simple-top-down-parsing.htm)
-- [How to Write a Lisp Interpreter in Python_](http://norvig.com/lispy.html)
-- [Let’s Build A Simple Interpreter_](https://ruslanspivak.com/lsbasi-part1/)
-- [Make Your Own Simple Interpreted Programming Language_](https://www.youtube.com/watch?v=dj9CBS3ikGA&list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD&index=1) [video]
+- [Simple Iterator-based Parsing\_](http://effbot.org/zone/simple-iterator-parser.htm)
+- [Simple Top-Down Parsing in Python\_](http://effbot.org/zone/simple-top-down-parsing.htm)
+- [How to Write a Lisp Interpreter in Python\_](http://norvig.com/lispy.html)
+- [Let’s Build A Simple Interpreter\_](https://ruslanspivak.com/lsbasi-part1/)
+- [Make Your Own Simple Interpreted Programming Language\_](https://www.youtube.com/watch?v=dj9CBS3ikGA&list=PLZQftyCk7_SdoVexSmwy_tBgs7P0b97yD&index=1) [video]
 
 ### Web Scraping:
 
@@ -465,6 +457,7 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 - [Which Movie Should I Watch using BeautifulSoup](https://medium.com/@nishantsahoo.in/which-movie-should-i-watch-5c83a3c0f5b1)
 
 ### GUI:
+
 - [Create a Registration Form Web Application with PyWebIO](https://www.geeksforgeeks.org/create-a-registration-form-using-pywebio-module-in-python/)
 
 ### Web Applications:
@@ -514,6 +507,7 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 ### Data Science:
 
 - Learn Python For Data Science by Doing Several Projects (video):
+
   - [Part 1: Introduction](https://www.youtube.com/watch?v=T5pRlIbr6gg)
 
   - [Part 2: Twitter Sentiment Analysis](https://www.youtube.com/watch?v=o_OZdbCzHUA)
@@ -608,7 +602,7 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 
 ### Deep Learning:
 
-- [Develop an app using Deep Cognition SDK for AI marketplace * Sponsored by Deep Congiton exclusively for Fnplus community members *](https://github.com/DeepCognition/ai-apps-sdk)
+- [Develop an app using Deep Cognition SDK for AI marketplace _ Sponsored by Deep Congiton exclusively for Fnplus community members _](https://github.com/DeepCognition/ai-apps-sdk)
 
 - [Using Convolutional Neural Nets to Detect Facial Keypoints](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
 
@@ -682,8 +676,6 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 
 - [Natural Language Processing using scikit-learn](https://towardsdatascience.com/natural-language-processing-count-vectorization-with-scikit-learn-e7804269bb5e)
 
-
-
 ## Go:
 
 - [Create a Real Time Chat App with Golang, Angular 2, and WebSocket](https://www.thepolyglotdeveloper.com/2016/12/create-real-time-chat-app-golang-angular-2-websockets/)
@@ -711,7 +703,6 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 - [Build Web Application with GoLang](https://legacy.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 
 - [Building a container from scratch in Go - Liz Rice (Microscaling Systems)](https://www.youtube.com/watch?v=Utf-A4rODH8)
-
 
 ## PHP:
 
@@ -743,11 +734,9 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 
   - [Part 7: Deployment](https://medium.com/@ashokgelal/a-full-featured-multi-tenant-app-with-laravel-part-7-deployment-40bb3c895627)
 
-
 ## Ruby:
 
 - [Build a Network Stack with Ruby](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
-
 
 ### Ruby on Rails:
 
@@ -757,7 +746,6 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 
 - [Build a Social Network using Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233)
 
-
 ## R:
 
 - [Build Web Apps with Shiny](http://shiny.rstudio.com/tutorial/)
@@ -765,7 +753,6 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 - [Build A Cryptocurrency Bot](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
 
 - [Learn Associate Rule Mining in R](https://towardsdatascience.com/association-rule-mining-in-r-ddf2d044ae50)
-
 
 ## Swift:
 
