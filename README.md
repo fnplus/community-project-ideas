@@ -9,7 +9,7 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 
 ## Table of Contents:
 
-- [Algorithms](#algo)
+- [Algorithms](#algorithms)
 
 - [Android](#android)
 
