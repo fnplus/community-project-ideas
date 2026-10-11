@@ -246,6 +246,8 @@ This repo have been seen by [![HitCount](http://hits.dwyl.io/fnplus/community-pr
 
 - [Build a Library Management System in Java Swing](https://www.javatpoint.com/library-management-system-in-java-swing)
 
+- [How to make a Minecraft mod with AI — Universal Modder & NeoForge 1.21.1](https://universalmodder.dev/guides/minecraft-first-mod/)
+
 ## JavaScript:
 
 - [Build 30 things in 30 days with 30 tutorials](https://javascript30.com)
